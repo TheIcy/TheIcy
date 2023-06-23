@@ -2,9 +2,11 @@
 
 ### Main Coding Languages That I Know
 - C#
-- C++
 - Python
 - HTML
+
+### Coding Languages I'm trying to learn
+- C++
 - JavaScript
 
 ### Other Things
