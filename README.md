@@ -4,10 +4,5 @@
 - C#
 - Python
 - HTML
-
-### Coding Languages I'm trying to learn
 - C++
-- JavaScript
-
-### Other Things
-- I like anime
+- Java
