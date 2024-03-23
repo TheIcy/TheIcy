@@ -11,4 +11,4 @@
 - C++
 - HTML
 - Python
-- Java
+- JavaScript
