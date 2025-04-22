@@ -6,9 +6,9 @@
 ---
 </div>
 
-# Main Coding Languages I Know
-- C#
-- C++
-- HTML
-- Python
-- JavaScript
+# What I do
+- Backend server development
+- Game development (Unity) (Sometimes)
+- Design websites
+
+Anyone who does not use Jetbrains tools should not be alive :)
